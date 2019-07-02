@@ -1,0 +1,31 @@
+{
+  "name": "express-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinandangithub/node-express-sql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinandangithub/node-express-sql/issues"
+  },
+  "homepage": "https://github.com/abhinandangithub/node-express-sql#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.11",
+    "mysql": "^2.17.1",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.18"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.0",
+    "@types/lodash": "^4.14.135"
+  }
+}
